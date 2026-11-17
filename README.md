@@ -1,2 +1,2 @@
-# SPPU-SE-IT-Practical-Codes
+# SPPU-SE
 Data Structures and Algorithms practical programs
